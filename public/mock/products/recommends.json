@@ -1,0 +1,68 @@
+[
+    {
+        "id": "p-1",
+        "shopIds": ["s-1", "s-1", "s-1"],
+        "shop": "院落创意菜",
+        "tag": "免预约",
+        "picture": "",
+        "product": "【3店通用】百香果（冷饮）1扎啤",
+        "currentPrice": 19.9,
+        "oldPrice": 48,
+        "saleDesc": "已售6034"
+    },
+    {
+        "id": "p-2",
+        "shopIds": ["s-1", "s-1", "s-1"],
+        "shop": "院落创意菜",
+        "tag": "免预约",
+        "picture": "",
+        "product": "【3店通用】百香果（冷饮）1扎啤",
+        "currentPrice": 19.9,
+        "oldPrice": 48,
+        "saleDesc": "已售6034"
+    },
+    {
+        "id": "p-3",
+        "shopIds": ["s-1", "s-1", "s-1"],
+        "shop": "院落创意菜",
+        "tag": "免预约",
+        "picture": "",
+        "product": "【3店通用】百香果（冷饮）1扎啤",
+        "currentPrice": 19.9,
+        "oldPrice": 48,
+        "saleDesc": "已售6034"
+    },
+    {
+        "id": "p-4",
+        "shopIds": ["s-1", "s-1", "s-1"],
+        "shop": "院落创意菜",
+        "tag": "免预约",
+        "picture": "",
+        "product": "【3店通用】百香果（冷饮）1扎啤",
+        "currentPrice": 19.9,
+        "oldPrice": 48,
+        "saleDesc": "已售6034"
+    },
+    {
+        "id": "p-5",
+        "shopIds": ["s-1", "s-1", "s-1"],
+        "shop": "院落创意菜",
+        "tag": "免预约",
+        "picture": "",
+        "product": "【3店通用】百香果（冷饮）1扎啤",
+        "currentPrice": 19.9,
+        "oldPrice": 48,
+        "saleDesc": "已售6034"
+    },
+    {
+        "id": "p-6",
+        "shopIds": ["s-1", "s-1", "s-1"],
+        "shop": "院落创意菜",
+        "tag": "免预约",
+        "picture": "",
+        "product": "【3店通用】百香果（冷饮）1扎啤",
+        "currentPrice": 19.9,
+        "oldPrice": 48,
+        "saleDesc": "已售6034"
+    }
+]
